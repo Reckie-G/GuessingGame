@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\bin\Debug\net8.0\NumberGuessingGameWow.exe
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\bin\Debug\net8.0\NumberGuessingGameWow.deps.json
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\bin\Debug\net8.0\NumberGuessingGameWow.runtimeconfig.json
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\bin\Debug\net8.0\NumberGuessingGameWow.dll
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\bin\Debug\net8.0\NumberGuessingGameWow.pdb
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.AssemblyInfo.cs
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.dll
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\refint\NumberGuessingGameWow.dll
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.pdb
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\NumberGuessingGameWow.genruntimeconfig.cache
+C:\Users\User\Desktop\Number Guessing Game\NumberGuessingGameWow\NumberGuessingGameWow\obj\Debug\net8.0\ref\NumberGuessingGameWow.dll
